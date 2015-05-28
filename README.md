@@ -8,9 +8,9 @@ No anwsers at this level currently.
 
 ##  Moderate Level
 
-1. [Longest Lines]()
-2. [Detecting Cycles]()
-3. [Stack Implementation]()
+1. [Longest Lines](https://github.com/MrHuxu/codeeval/blob/master/moderate/1_longest_lines.js)
+2. [Detecting Cycles](https://github.com/MrHuxu/codeeval/blob/master/moderate/2_detecting_cycles.js)
+3. [Stack Implementation](https://github.com/MrHuxu/codeeval/blob/master/moderate/3_stack_implementation.js)
 4. [Mth to last element](https://github.com/MrHuxu/codeeval/blob/master/moderate/4_mth_to_last_element.js)
 
 ## Hard Level
