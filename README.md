@@ -4,7 +4,7 @@
 
 ## Easy Level
 
-No anwsers here.
+No anwsers at this level currently.
 
 ##  Moderate Level
 
@@ -15,4 +15,4 @@ No anwsers here.
 
 ## Hard Level
 
-No anwsers here.
+No anwsers at this level currently.
