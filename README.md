@@ -15,6 +15,10 @@ No anwsers at this level currently.
 5. [Lowest Common Ancestor](https://github.com/MrHuxu/codeeval/blob/master/moderate/5_lowest_common_ancestor.js) **If a is b's ancestor, the output will be a**
 6. [First Non-repeated Character](https://github.com/MrHuxu/codeeval/blob/master/moderate/6_first_non_repeated_character.js)
 7. [Remove Characters](https://github.com/MrHuxu/codeeval/blob/master/moderate/7_remove_characters.js)
+8. [Sum of Integers](https://github.com/MrHuxu/codeeval/blob/master/moderate/8_sum_of_integers.js)
+9. [Decimal to Binary](https://github.com/MrHuxu/codeeval/blob/master/moderate/9_decimal_to_binary.js)
+10. [Number of Ones](https://github.com/MrHuxu/codeeval/blob/master/moderate/10_number_of_ones.js)
+11. [Endianness](https://github.com/MrHuxu/codeeval/blob/master/moderate/11_endianness.js)
 
 ## Hard Level
 
