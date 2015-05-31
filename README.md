@@ -19,6 +19,8 @@ No anwsers at this level currently.
 9. [Decimal to Binary](https://github.com/MrHuxu/codeeval/blob/master/moderate/9_decimal_to_binary.js)
 10. [Number of Ones](https://github.com/MrHuxu/codeeval/blob/master/moderate/10_number_of_ones.js)
 11. [Endianness](https://github.com/MrHuxu/codeeval/blob/master/moderate/11_endianness.js)
+12. [Double Squares](https://github.com/MrHuxu/codeeval/blob/master/moderate/12_double_squares.js)
+13. [Trailing String](https://github.com/MrHuxu/codeeval/blob/master/moderate/13_trailing_string.js)
 
 ## Hard Level
 
