@@ -23,6 +23,9 @@ No anwsers at this level currently.
 13. [Trailing String](https://github.com/MrHuxu/codeeval/blob/master/moderate/13_trailing_string.js)
 14. [Number Pairs](https://github.com/MrHuxu/codeeval/blob/master/moderate/14_number_pairs.js)
 15. [Email Validation](https://github.com/MrHuxu/codeeval/blob/master/moderate/15_email_validation.js)
+16. [Pangrams](https://github.com/MrHuxu/codeeval/blob/master/moderate/16_pangrams.js)
+17. [Array Absurdity](https://github.com/MrHuxu/codeeval/blob/master/moderate/17_array_absurdity.js)
+18. [Jolly Jumpers](https://github.com/MrHuxu/codeeval/blob/master/moderate/18_jolly_jumpers.js)
 
 ## Hard Level
 
