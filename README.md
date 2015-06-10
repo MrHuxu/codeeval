@@ -27,6 +27,7 @@ No anwsers at this level currently.
 17. [Array Absurdity](https://github.com/MrHuxu/codeeval/blob/master/moderate/17_array_absurdity.js)
 18. [Jolly Jumpers](https://github.com/MrHuxu/codeeval/blob/master/moderate/18_jolly_jumpers.js)
 19. [Reverse and Add](https://github.com/MrHuxu/codeeval/blob/master/moderate/19_reverse_and_add.js)
+20. [Cash Register](https://github.com/MrHuxu/codeeval/blob/master/moderate/20_cash_register.js)
 
 ## Hard Level
 
