@@ -26,6 +26,7 @@ No anwsers at this level currently.
 16. [Pangrams](https://github.com/MrHuxu/codeeval/blob/master/moderate/16_pangrams.js)
 17. [Array Absurdity](https://github.com/MrHuxu/codeeval/blob/master/moderate/17_array_absurdity.js)
 18. [Jolly Jumpers](https://github.com/MrHuxu/codeeval/blob/master/moderate/18_jolly_jumpers.js)
+19. [Reverse and Add](https://github.com/MrHuxu/codeeval/blob/master/moderate/18_reverse_and_add.js)
 
 ## Hard Level
 
