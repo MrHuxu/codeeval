@@ -29,6 +29,8 @@ No anwsers at this level currently.
 19. [Reverse and Add](https://github.com/MrHuxu/codeeval/blob/master/moderate/19_reverse_and_add.js)
 20. [Cash Register](https://github.com/MrHuxu/codeeval/blob/master/moderate/20_cash_register.js)
 21. [Pascals Triangle](https://github.com/MrHuxu/codeeval/blob/master/moderate/21_pascals_triangle.js)
+22. [Counting Primes](https://github.com/MrHuxu/codeeval/blob/master/moderate/22_counting_primes.js)
+22. [Valid Parentheses](https://github.com/MrHuxu/codeeval/blob/master/moderate/23_valid_parentheses.js)
 
 ## Hard Level
 
