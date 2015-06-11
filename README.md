@@ -28,6 +28,7 @@ No anwsers at this level currently.
 18. [Jolly Jumpers](https://github.com/MrHuxu/codeeval/blob/master/moderate/18_jolly_jumpers.js)
 19. [Reverse and Add](https://github.com/MrHuxu/codeeval/blob/master/moderate/19_reverse_and_add.js)
 20. [Cash Register](https://github.com/MrHuxu/codeeval/blob/master/moderate/20_cash_register.js)
+21. [Pascals Triangle](https://github.com/MrHuxu/codeeval/blob/master/moderate/21_pascals_triangle.js)
 
 ## Hard Level
 
