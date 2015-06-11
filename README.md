@@ -30,7 +30,11 @@ No anwsers at this level currently.
 20. [Cash Register](https://github.com/MrHuxu/codeeval/blob/master/moderate/20_cash_register.js)
 21. [Pascals Triangle](https://github.com/MrHuxu/codeeval/blob/master/moderate/21_pascals_triangle.js)
 22. [Counting Primes](https://github.com/MrHuxu/codeeval/blob/master/moderate/22_counting_primes.js)
-22. [Valid Parentheses](https://github.com/MrHuxu/codeeval/blob/master/moderate/23_valid_parentheses.js)
+23. [Valid Parentheses](https://github.com/MrHuxu/codeeval/blob/master/moderate/23_valid_parentheses.js)
+24. [Decode Numbers](https://github.com/MrHuxu/codeeval/blob/master/moderate/24_decode_numbers.js)
+25. [Overlapping Rectangles](https://github.com/MrHuxu/codeeval/blob/master/moderate/25_overlapping_rectangles.js)
+26. [Reverse Groups](https://github.com/MrHuxu/codeeval/blob/master/moderate/26_reverse_groups.js)
+27. [Minimum Coins](https://github.com/MrHuxu/codeeval/blob/master/moderate/27_minimum_coins.js)
 
 ## Hard Level
 
