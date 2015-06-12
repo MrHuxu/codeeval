@@ -35,6 +35,7 @@ No anwsers at this level currently.
 25. [Overlapping Rectangles](https://github.com/MrHuxu/codeeval/blob/master/moderate/25_overlapping_rectangles.js)
 26. [Reverse Groups](https://github.com/MrHuxu/codeeval/blob/master/moderate/26_reverse_groups.js)
 27. [Minimum Coins](https://github.com/MrHuxu/codeeval/blob/master/moderate/27_minimum_coins.js)
+28. [Prime Numbers](https://github.com/MrHuxu/codeeval/blob/master/moderate/28_prime_numbers.js)
 
 ## Hard Level
 
