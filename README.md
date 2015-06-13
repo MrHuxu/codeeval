@@ -36,6 +36,9 @@ No anwsers at this level currently.
 26. [Reverse Groups](https://github.com/MrHuxu/codeeval/blob/master/moderate/26_reverse_groups.js)
 27. [Minimum Coins](https://github.com/MrHuxu/codeeval/blob/master/moderate/27_minimum_coins.js)
 28. [Prime Numbers](https://github.com/MrHuxu/codeeval/blob/master/moderate/28_prime_numbers.js)
+29. [Flavius Josephus](https://github.com/MrHuxu/codeeval/blob/master/moderate/29_flavius_josephus.js)
+30. [String Rotation](https://github.com/MrHuxu/codeeval/blob/master/moderate/30_string_rotation.js)
+31. [Sum to Zero](https://github.com/MrHuxu/codeeval/blob/master/moderate/31_sum_to_zero.js)
 
 ## Hard Level
 
