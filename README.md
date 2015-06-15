@@ -39,6 +39,9 @@ No anwsers at this level currently.
 29. [Flavius Josephus](https://github.com/MrHuxu/codeeval/blob/master/moderate/29_flavius_josephus.js)
 30. [String Rotation](https://github.com/MrHuxu/codeeval/blob/master/moderate/30_string_rotation.js)
 31. [Sum to Zero](https://github.com/MrHuxu/codeeval/blob/master/moderate/31_sum_to_zero.js)
+32. [Balanced Smileys](https://github.com/MrHuxu/codeeval/blob/master/moderate/32_balanced_smileys.js)
+33. [Pass Triangle](https://github.com/MrHuxu/codeeval/blob/master/moderate/33_pass_triangle.js)
+34. [URI Comparison](https://github.com/MrHuxu/codeeval/blob/master/moderate/34_uri_comparison.js)
 
 ## Hard Level
 
